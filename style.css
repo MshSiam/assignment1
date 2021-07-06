@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.d-flex{
+    display: flex;
+}
+
+
+h1{
+    font-size: 2.5rem;
+    margin-top: 20px;
+}
+
+span{
+    color: rgb(250, 0, 125);
+}
+
+p{
+    margin-top:40px ;
+    color: rgb(116, 116, 116);
+    margin-bottom: 30px;
+    line-height: 28px;
+}
+
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+}
+
+.half-width img{
+    width: 90%;
+    margin-top: 20px;
+}
+.headsection{
+    background-color: rgb(230, 230, 230);
+    padding-bottom:40px ;
+}
+
+.button{
+    
+    text-decoration: none;
+    text-transform: uppercase;
+    background-image: linear-gradient(rgb(209, 19, 200), rgb(165, 1, 50));
+    color: white;
+    padding: 15px 20px;
+    border-radius: 15px;
+    font-weight: bolder;
+    display: inline;
+
+}
+
+.about-me{
+    margin-top: 50px;
+    
+}
+
+.about-me .about{
+    margin-top: 50px;
+}
+
+.recipie{
+    margin-top: 150px;
+    text-align: center;
+    padding-left: 10%;
+}
+
+.recipie p{
+    margin-top: 30px;
+    width: 50%;
+    margin: 0 auto;
+}
+
+
+.bshad{
+    width: 33%;
+    /* padding-left: 10%; */
+    padding: 30px ;
+    background-color: rgb(230, 230, 230);
+    border-radius: 20px;
+    margin-top: 80px;
+    margin-left: 35px;
+    margin-right: 35px;
+
+}
+
+.bshad img{
+    width: 100%;
+}
+
+.item2 img{
+    border-radius: 8px;
+}
+
+.item3 img{
+    border-radius: 10px;
+}
