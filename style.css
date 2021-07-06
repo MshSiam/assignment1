@@ -36,7 +36,7 @@ p{
 }
 .headsection{
     padding-top: 30px;
-    background-color: rgb(230, 230, 230);
+    background-color: #f51b1b27;
     padding-bottom:50px ;
 }
 
@@ -116,7 +116,7 @@ p{
 }
 h4{
     /* text-align: center; */
-    color: rgb(5, 100, 17);
+    color: rgba(172, 20, 96, 0.548);
 }
 
 .stwidth{
