@@ -124,7 +124,7 @@ h4{
 }
 
 .social-status{
-    margin-left: 10%;
+    /* margin-left: 10%; */
     margin-top: 10%;
     margin-bottom: 10%;
     text-align: center;
@@ -135,6 +135,25 @@ h4{
 .social-status h1{
     margin-bottom: -30px;
 }
+
+
+
+
+.contact-sec{
+    /* margin-left: 10%; */
+    text-align: center;
+    background: rgb(192, 192, 192);
+    margin-bottom: -55px;
+    padding-bottom:20px ;
+
+}
+
+.contact-sec h1{
+    margin-bottom: 30px;
+    padding: 20px;
+}
+
+
 
 .footer{
     margin-top: 50px;
